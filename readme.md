@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 🌱 Currently Learning
 
 - JavaScript
-- Angular
+- React
 - PostgreSQL
 
 ## 📈 GitHub Stats
