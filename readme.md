@@ -6,18 +6,13 @@ I'm a developer passionate about building modern web applications, optimizing in
 ---
 
 ## 💻 Technologies & Stack
+<div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=typescript,javascript,python,php,html,css)](https://skillicons.dev)
+[![Languages & Web](https://skillicons.dev/icons?i=typescript,javascript,python,php,html,css,react,tailwindcss,prisma,vite)](https://skillicons.dev)
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,tailwindcss,prisma,nginx,docker,vite)](https://skillicons.dev)
+[![Tools & Infrastructure](https://skillicons.dev/icons?i=docker,nginx,webstorm,pycharm,phpstorm,figma,git,sqlite,mysql,postgres,redis,prometheus,grafana)](https://skillicons.dev)
 
-[![IDEs & Tools](https://skillicons.dev/icons?i=webstorm,pycharm,phpstorm,figma,git)](https://skillicons.dev)
-
-[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,redis)](https://skillicons.dev)
-
-[![Monitoring & Analytics](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
-
----
+</div>
 
 ## ⚙️ What I’m Working On
 - Building **TalePint** — a full-featured media tracker for anime, movies, games, and books
