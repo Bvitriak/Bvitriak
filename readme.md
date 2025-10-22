@@ -14,6 +14,8 @@ I'm a developer passionate about building modern web applications, optimizing in
 
 </div>
 
+---
+
 ## ⚙️ What I’m Working On
 - Building **TalePint** — a full-featured media tracker for anime, movies, games, and books
 - Practicing advanced algorithms on **LeetCode**
